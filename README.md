@@ -1,2 +1,6 @@
-# qgis-snap
-Snap for QGIS - www.qgis.org
+# QGIS snap
+
+This project creates a working snap of QGIS (www.qgis.org).
+
+## Current state
+Initial version
