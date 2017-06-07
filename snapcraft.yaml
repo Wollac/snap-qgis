@@ -14,7 +14,7 @@ architectures: [amd64]
 apps:
   qgis:
     command: desktop-launch qgis
-    plugs: [home, network, unity7, x11]
+    plugs: [home, network, unity7]
     environment:
       GDAL_DATA: $SNAP/usr/share/gdal/1.11
 
