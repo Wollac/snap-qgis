@@ -26,6 +26,8 @@ parts:
     build-packages:
       - build-essential
       - cmake
+      - flex
+      - bison
       - qt4-default
       - libqtwebkit-dev
       - libqjson-dev
