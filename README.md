@@ -7,8 +7,8 @@ QGIS is a Geographic Information System (GIS) that supports vector, raster & dat
 * Only amd64
 * Working QCA OpenSSL - fixed `Authentication System: DISABLED` message 
 
-## Building the Snap
-On an Ubuntu system a snap can be build out of the `snapcraft.yaml` by running `snapcraft` in the project directory.
+## Building the snap
+On an Ubuntu system a snap can be built out of the `snapcraft.yaml` by running `snapcraft` in the project directory.
 
 For a clean, system independent build it is recommanden to use the official `snapcore/snapcraft` Docker image. Using Docker, you’ll map the current directory into the container and then build the snap from that same directory:
 ```
