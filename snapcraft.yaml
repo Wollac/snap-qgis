@@ -30,6 +30,7 @@ parts:
       - flex
       - grass-dev
       - libexpat1-dev
+      - libfcgi-dev
       - libgdal-dev
       - libgeos-dev
       - libgsl-dev
@@ -50,6 +51,7 @@ parts:
       - python-qt4-dev
       - python-sip-dev
       - qt4-dev-tools
+      - spawn-fcgi
       - txt2tags
     stage-packages:
       - libqca2-plugins
